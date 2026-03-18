@@ -47,43 +47,49 @@ Rectifier efficiency is defined as the ratio of DC output power to the input pow
 
 ### Half wave:
 
-![EXP - 4 REC  1](https://github.com/user-attachments/assets/d9630ca0-059d-4516-adb8-f1d217461812)
+![EXP - 4 REC  1](https://github.com/user-attachments/assets/f2afec5e-29b6-4adf-a610-92bb11024079)
+
 
 ### Full wave:
 
-![EXP - 4 REC  3](https://github.com/user-attachments/assets/13df2fee-cd2c-4810-a567-d0496f8743fc)
+![EXP - 4 REC  3](https://github.com/user-attachments/assets/c3105c47-9034-4c15-937a-628046a12263)
 
 ## Rectifier with filter:
 
 ### Half wave:
 
-![EXP - 4 REC  2](https://github.com/user-attachments/assets/87a8bb28-76ea-4cef-bffa-16ca2c2e2d31)
+![EXP - 4 REC  2](https://github.com/user-attachments/assets/4592be0e-ad22-4812-969c-4938c27705c4)
+
 
 ### Full wave:
 
-![EXP - 4 REC  4](https://github.com/user-attachments/assets/df428be9-f520-4090-949e-1e73048b7904)
+![EXP - 4 REC  4](https://github.com/user-attachments/assets/b232ecbc-0eeb-45a6-a818-749d7cd07286)
+
 
 ## TABULAR COLUMN:
 
 ### Half wave:
 
-![EXP - 4 REC  5](https://github.com/user-attachments/assets/52ec78f7-3130-48c6-94ed-c39af2b059f0)
+![EXP - 4 REC  5](https://github.com/user-attachments/assets/b779d35b-d1f5-4b48-8630-bbc40208c171)
+
 
 ## TABULAR COLUMN:
 
 ### Full wave:
 
-![EXP - 4 REC  6](https://github.com/user-attachments/assets/39864f1b-bf54-42c6-8352-3b16748c7535)
+![EXP - 4 REC  6](https://github.com/user-attachments/assets/77195098-24ae-4395-b1b1-f0f78180c2b7)
 
 ## WAVEFORM:
 
 ### Half wave:
 
-![EXP - 4 REC  7](https://github.com/user-attachments/assets/f4da198d-0615-4901-95fb-15bb8340f097)
+![EXP - 4 REC  7](https://github.com/user-attachments/assets/8e88ae37-8228-4e6c-9b52-6e0fd5f79746)
+
 
 ### Full wave:
 
-![EXP - 4 REC  8](https://github.com/user-attachments/assets/b0b54345-29c3-4082-af81-bee14fce69a4)
+![EXP - 4 REC  8](https://github.com/user-attachments/assets/f25a6e6a-ecc7-431f-8bd3-6d77ba30b758)
+
 
 ## RESULT:
 
